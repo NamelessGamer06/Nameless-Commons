@@ -1,0 +1,15 @@
+{
+    "values": [
+        "minecraft:netherrack",
+        "minecraft:soul_sand",
+        "minecraft:soul_soil",
+        {
+            "id": "mynethersdelight:resurgent_soil",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:resurgent_soil_farmland",
+            "required": false
+        }
+    ]
+}
